@@ -1,0 +1,9 @@
+{
+  "name": "Учёт денег",
+  "short_name": "Деньги",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#121214",
+  "theme_color": "#121214",
+  "lang": "ru"
+}
